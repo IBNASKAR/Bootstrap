@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.buttonCar{
+    height: 20px !important;
+    width: 15px;
+    border-radius: 50%;
+    color: greenyellow;
+    background-color: aquamarine;
+}
+.iconnWidth{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.IMG img:hover
+{   
+    border-radius: 5px;
+    /* padding: 15px; */
+    background-color: rgb(221, 221, 221);
+}
+.IMG {
+    border-radius: 5px;
+    border: 1px solid rgba(231, 231, 231, 0.5);
+}
+.IMG img{
+    padding: 5px;
+}
